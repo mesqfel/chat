@@ -1,5 +1,5 @@
 {
-  "name": "Mesquita Chat",
+  "name": "chat",
   "version": "1.0.0",
   "description": "A chat made with NodeJs and socket.io",
   "main": "app.js",
